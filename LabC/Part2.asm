@@ -1,5 +1,5 @@
-ORG 	96
-DD 	-1,-2
+ORG 	96			//start location 
+DD 	-1,-2			//stored values to memory 
 
 addi 	x1,x0,5			//A
 ecall 	x2,x0,5			//B
